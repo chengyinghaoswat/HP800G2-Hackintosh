@@ -8,11 +8,11 @@
 
 我总是热衷于这种mini机器，因为他真的很方便，体积小，性能也不算太差，相对于apple的mini电脑，性价比又真的很高！
 
-![](/Users/eddy/Documents/GitHub/HP800G2-Hackintosh/image/front.jpg)
+![foront](image/front.jpg)
 
 这个是机器的正面图！很前卫的是，竟然拥有一个Type-C的接口！
 
-![back](/Users/eddy/Documents/GitHub/HP800G2-Hackintosh/image/back.jpg)
+![back](image/back.jpg))
 
 这个则是机器背部的接口，左侧的一个小盒子是外置的天线，接口很多，而且大部分都是USB3.0的接口，中间的口可以自己改装成HDMI的接口，不过毕竟是黑苹果，对HDMI的支持并没有那么好，而且一张转接卡要80元左右，对于我这种没有需求的人来说，就算啦！
 
